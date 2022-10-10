@@ -1,3 +1,3 @@
 # adfdemo
 
-This is Terraform ADF template to promote between environments using Azure DevOps.
+This is Terraform ADF template to promote between environments when there are updates
