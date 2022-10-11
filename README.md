@@ -1,3 +1,10 @@
-# adfdemo
+# adf IaC Demo #1.1
 
-This is Terraform ADF template to promote between environments when there are updates
+This is using IaC to deply ADF:
+- Blob Storage - state file
+- SQL
+- ADF
+- linked service, pipeline with copy activities
+- data movement from Blob Storage 
+- using azure pipelines - automated promotion
+ 
