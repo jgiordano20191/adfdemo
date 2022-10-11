@@ -3,8 +3,7 @@
 This is using IaC to deply ADF, architecture sent in documentation
 - Blob Storage - state file
 - SQL
-- ADF
+- ADF (using very simple example)
 - linked service, pipeline with copy activities
-- data movement from Blob Storage 
-- using azure pipelines - automated promotion
+- yaml
  
