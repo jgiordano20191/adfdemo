@@ -1,8 +1,8 @@
-# adf IaC Demo #1.1
+# adf IaC POC #1.1
 
 This is using IaC to deply ADF, architecture sent in documentation
 - Blob Storage - state file
-- SQ
+- SQL
 - ADF
 - linked service, pipeline with copy activities
 - data movement from Blob Storage 
