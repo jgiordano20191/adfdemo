@@ -16,7 +16,7 @@ End to end deployment of ADF with logging.
 # FLOW
 
 A. ADF deploy using terraform
-B. Workflows to auomate deployments:
+B. Workflows to automate deployments:
 - User makes changes to their privage branches
 - Users must create a pull request to make the changes
 - Github workflow(actions) build triggered every time a new commmit is made to master.  This generates an ARM template as an artifact (after validation).
