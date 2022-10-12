@@ -2,6 +2,8 @@
 
 End to end deployment of ADF with logging.
 
+(in process, last push 10.12.2022 in afternoon for item 1)
+
 # TECH
 
 - Terraform
