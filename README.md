@@ -2,7 +2,7 @@
 
 End to end deployment of ADF with logging.
 
-# Tech
+# TECH
 
 - Terraform
 - ARM
@@ -23,6 +23,6 @@ B. Workflows to auomate deployments:
 
 Note:  this works best with github or Azure devops from testing this.
 
- # Diagram
+ # DIAGRAM
  
 
