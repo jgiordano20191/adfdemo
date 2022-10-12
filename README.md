@@ -2,7 +2,8 @@
 
 End to end deployment of ADF with logging.
 
-(in process, last push 10.12.2022 in afternoon for item 1)
+(in process, deploy done: 10/11/2022, 10/12/2022
+ final: 10/13/2022)
 
 # TECH
 
