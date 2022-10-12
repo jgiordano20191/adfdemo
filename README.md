@@ -2,6 +2,8 @@
 
 End to end deployment of ADF with logging.
 
+# Tech
+
 - Terraform
 - ARM
 - Datafactory
@@ -17,3 +19,4 @@ End to end deployment of ADF with logging.
 
  # Diagram
  
+
