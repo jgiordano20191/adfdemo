@@ -20,6 +20,7 @@ A. ADF deploy using terraform
 
 
 B. Workflows to automate deployments:
+- ADF links different services, but artifacts created are in JSON and deployed in an ARM template
 - User makes changes to their privage branches
 - Users must create a pull request to make the changes
 - Github workflow(actions) build triggered every time a new commmit is made to master.  This generates an ARM template as an artifact (after validation).
