@@ -29,7 +29,6 @@ B. Workflows to automate deployments:
 
 Three Branches:
 
-- main
 - adf-dev
 - adf-prod
 
