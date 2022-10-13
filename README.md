@@ -27,7 +27,7 @@ B. Workflows to automate deployments:
   Replacing the manual publish step.
 - The workflow is configured to create new release and deply the arm template each time a new build available
 
-Three Branches:
+Two Branches:
 
 - adf-dev
 - adf-prod
