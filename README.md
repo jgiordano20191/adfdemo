@@ -32,7 +32,7 @@ Two Branches:
 - adf-dev
 - adf-prod
 
-
+NOTE:  working to get test cloud available so will retest once that is available
  # DIAGRAM
  
 
