@@ -3,7 +3,8 @@
 End to end deployment of ADF with logging.
 
 (in process, deploy done: 10/11/2022, 10/12/2022
- final: 10/13/2022)
+ final: 10/13/2022
+ waiting on cloud to test this flow
 
 # TECH
 
