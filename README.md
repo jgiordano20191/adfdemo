@@ -2,7 +2,7 @@
 
 End to end deployment of ADF with logging.
 
-Put on hold, no cloud to finish poc
+Put on hold, no cloud to finish poc; looks like they may have monday
 
 # TECH
 
@@ -33,5 +33,5 @@ Two Branches:
 
 NOTE:  working to get test cloud available so will retest once that is available
  # DIAGRAM
- 
+ Architecture diagram below
 
